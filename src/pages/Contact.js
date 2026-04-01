@@ -17,7 +17,7 @@ export default function Contact() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    await fetch("http://localhost:5000/contacts", {
+    await fetch("https://stellar-talent-bridge-1.onrender.com/contacts", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
