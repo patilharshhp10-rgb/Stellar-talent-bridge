@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Harsh Patil",
+      "email": "harshpatilhp583@gmail.com",
+      "message": "hey",
+      "id": "XN8FLsHabAc"
+    },
+    {
+      "name": "Harsh Patil",
+      "email": "harshpatilhp583@gmail.com",
+      "message": "hello",
+      "id": "MzA9RU1PXuY"
+    },
+    {
+      "name": "Harsh Patil",
+      "email": "patilharshhp.10@gmail.com",
+      "message": "hey",
+      "id": "ZlVJHWk436Q"
+    },
+    {
+      "name": "Harsh Patil",
+      "email": "patilharshhp.10@gmail.com",
+      "message": "mm",
+      "id": "OtUJCE9PVCQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
